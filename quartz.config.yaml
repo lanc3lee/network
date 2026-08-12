@@ -232,6 +232,7 @@ plugins:
       links:
         whatsapp: https://wa.me/memepapa
         Linkedin: https://www.linkedin.com/in/lanc3/
+        CyberSecurity: https://soc.lanc3.com
     layout:
       position: footer
       priority: 50
