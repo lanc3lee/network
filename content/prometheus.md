@@ -144,4 +144,3 @@ docker-compose down
 
 Add `-v` if you also want to wipe stored data/volumes for a clean restart later.
 
-If step 4 or 5 throws anything unexpected, paste me the error/log output and I'll help troubleshoot against the actual failure rather than guessing — same as we'd want to have done with the FRR multicast issue if it'd been practical to debug interactively.
