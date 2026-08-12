@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: LANC3
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -230,8 +230,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        whatsapp: https://wa.me/memepapa
+        Linkedin: https://www.linkedin.com/in/lanc3/
     layout:
       position: footer
       priority: 50

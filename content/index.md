@@ -1,5 +1,5 @@
 ---
-title: '"Network Design & troubleshooting by Lance Lee"'
+title: Network Design Labs by Lance Lee
 ---
 Network Design & troubleshooting LAB knowledge base by Lance Lee. 
 
